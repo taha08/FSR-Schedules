@@ -1,0 +1,150 @@
+body{
+  background-color: white;
+}
+table {
+  border-collapse: collapse;
+  margin-left: 150px;
+  
+  margin-bottom: 41px;
+  border: 2px none black;
+  margin-right: 112px;
+  width: 80%;
+  text-align: center;
+  margin-top: -60px; 
+  
+
+    
+      }
+  
+ td {
+    border: 1px dotted black;
+    width: 50PX;
+    border-bottom: 5px double rgb(17, 5, 71);
+    border-top: 5px double rgb(17, 5, 71);
+    }
+
+  .tr{ 
+      height: 65PX;
+    }
+  
+ h4.h{ 
+  display: inline;
+  margin-left: -27px;
+      font-size: 17px  ;
+      font-weight: bold;
+     
+     }
+  .heure{text-align: left;margin-left: 10px;  border-style:none ;font-family: Verdana; text-align: left; color: rgb(190, 35, 35);} 
+  .jour { text-align: left;padding-right: 44px; font-family: verdana; color: rgb(190, 35, 35);}
+  .recreation {border: 0px dotted black;
+    border-bottom: 5px double rgb(17, 5, 71);
+    border-top: 5px double rgb(17, 5, 71); }
+  
+  .coloration
+  { 
+    background-color: rgb(178, 178, 179);
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    font-size: medium;
+   
+  }
+
+  .title
+  {
+    
+    font-family: Comic Sans MS ;
+    color: rgb(17, 17, 17);
+    text-align: right;
+  }
+  .verdana
+  {
+    font-family: Trebuchet MS !important;
+  }
+  .courier
+  {
+    font-family: Comic Sans MS ;
+    font-weight: bold;
+  }
+  fieldset{
+    border-radius: none;
+    border: none;
+    background-color: azure;
+  }
+  .univ {text-align: left;margin-left: 360px;}
+  .par{
+    text-align: center;
+    margin-right: 10px;
+
+    }
+    .list { display: inline-block;}
+
+#none{border:none;
+    text-align: center;}
+    #logo{width: 80PX;height: 80PX;}
+
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      font-size: 14px;
+      line-height: 18px;
+      background: #f4f4f4;
+    }
+    
+    .list-wrapper {
+      padding: 15px;
+      overflow: hidden;
+    }
+    
+    .list-item {
+      border: 1px solid #EEE;
+      background: #FFF;
+      margin-bottom: 10px;
+      padding: 10px;
+      box-shadow: 0px 0px 10px 0px #EEE;
+    }
+    
+    
+    
+    .list-item p {
+      margin: 0;
+    }
+    
+    .simple-pagination ul {
+      margin: 0 0 20px;
+      padding: 0;
+      list-style: none;
+      text-align: center;
+    }
+    
+    .simple-pagination li {
+      display: inline-block;
+      margin-right: 5px;
+    }
+    
+    .simple-pagination li a,
+    .simple-pagination li span {
+      color: #666;
+      padding: 5px 10px;
+      text-decoration: none;
+      border: 1px solid #EEE;
+      background-color: #FFF;
+      box-shadow: 0px 0px 10px 0px #EEE;
+    }
+    
+    .simple-pagination .current {
+      color: #FFF;
+      background-color: #FF7182;
+      border-color: #FF7182;
+    }
+    
+    .simple-pagination .prev.current,
+    .simple-pagination .next.current {
+      background: #e04e60;
+    }   
+    ul.a {
+      list-style-type: circle;
+    }
+
+
+
